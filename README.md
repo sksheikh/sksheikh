@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Sheikh Salah Uddin
 #### A professional frontend and WordPress developer
 
-Skills: PHP/JS/jQuery/Bootstrap/Sass/CSS/HTML
+Skills: Laravel/PHP/JS/jQuery/Bootstrap/Sass/CSS/HTML
 
-- 🔭 I’m currently working on php & WordPress theme development 
-- 🌱 I’m currently learning Laravel 
+- 🔭 I’m currently working on php & Laravel 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sksheikh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/skuddin.ius)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developersheikh.me)  
