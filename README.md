@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sheikh Salah Uddin
-#### A professional frontend and WordPress developer
+#### A professional Full Stack Web Developer
 
 Skills: Laravel/PHP/JS/jQuery/Bootstrap/Sass/CSS/HTML
 
