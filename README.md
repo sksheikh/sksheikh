@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksheikh&label=Profile%20views&color=0e75b6&style=flat" alt="sksheikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sksheikh" alt="sksheikh" /></a> </p>
-
 - 🔭 I’m currently working on [Bangladesh Food Safety Authority Health Certificate](https://ehealthcertificate.bfsa.gov.bd/)
 
 - 🌱 I’m currently learning **ReactJs**
